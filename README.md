@@ -23,7 +23,7 @@
 - HTML
 - CSS
 - Java Script
-- Boodstrap
+- Framework - Boodstrap
 - Visual Studio Code
 
 <br></br>

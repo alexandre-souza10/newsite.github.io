@@ -4,7 +4,7 @@
 ### Project Home Page: 
 
 
-### Project access link: 
+### Project access link: https://alexandre-souza10.github.io/newsite.github.io/
 <br></br>
 
 ## Project Description:
@@ -20,6 +20,9 @@
 
 ## Languages ​​and Tools used:
 - HTML
+- CSS
+- Java Script
+- Boodstrap
 - Visual Studio Code
 
 <br></br>

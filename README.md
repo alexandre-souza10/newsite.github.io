@@ -23,7 +23,7 @@ https://github.com/alexandre-souza10/newsite.github.io/assets/74196527/baa25108-
 - HTML
 - CSS
 - Java Script
-- Framework - Boodstrap
+- Framework - Bootstrap
 - Visual Studio Code
 
 <br></br>

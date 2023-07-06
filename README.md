@@ -9,15 +9,15 @@
 <br></br>
 
 ## Project Description:
-- Nesse Projeto foi desenvolvido uma pagina de site, um projeto Front-End, utilizando HTML, CSS, Java Script, e o Framework Bootstrap.
-Na pagina encotramos um Design mais avançado, utilizando as ferramentas do Bootstrap. Encontramos tambem na parte superior da pagina um inscreva-se
-em Nosso Site, onde inserimos o E-mail no campo indicado, temos uma mensagem de Boas Vindas , e um sobre a empresa , informações sobre os diferenciais da empresa
-a Historia, e um entre em contato com a equipe para saber mais sobre a empresa e seus serviços.
+- In this Project, a website page was developed, a Front-End project, using HTML, CSS, Java Script, and the Bootstrap Framework.
+On the page we found a more advanced design, using Bootstrap tools. We also found at the top of the page a sign up
+on Our Site, where we insert the E-mail in the indicated field, we have a Welcome message, and one about the company, information about the company's differentials
+a History, and a contact the team to learn more about the company and its services.
 
-- O Projeto tem a funcionalidade de mostrar uma pagina de uma empresa de finanças, e todo o processo da mesma , com toda uma equipe para auxiliar no processo,
-em um ambiente Front-End.
+- The Project has the functionality of showing a page of a finance company, and its entire process, with a whole team to assist in the process,
+in a Front-End environment.
 
-- A seguir temos um pequeno vídeo instrutivo, onde mostramos um exemplo de como funciona a página New Website .
+- Below is a short instructional video where we show an example of how the New Website page works.
 
 <br></br>
 

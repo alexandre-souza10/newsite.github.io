@@ -36,5 +36,5 @@ https://github.com/alexandre-souza10/newsite.github.io/assets/74196527/66b00248-
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**

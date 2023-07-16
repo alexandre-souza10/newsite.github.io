@@ -1,6 +1,5 @@
 <h1 align="center"> New Website </h1> 
 
-
 ### Project Home Page: 
 
 ![Screenshot_1](https://github.com/alexandre-souza10/newsite.github.io/assets/74196527/f33f4efa-3d3d-42f4-9708-72de30496d0f)
